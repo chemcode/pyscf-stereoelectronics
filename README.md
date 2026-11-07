@@ -87,12 +87,6 @@ Author, A. B.; Author, C. D. Title of Your Manuscript. ChemRxiv. 2026.
 DOI: 10.26434/chemrxiv.YOUR_PREPRINT_ID
 ```
 
-### 🎯 The Complete Public Research Loop
-By adding this, you have locked down the perfect modern open-science triangle:
-1. **GitHub** hosts the reproducible workflow recipe (the notebooks).
-2. **Harvard Dataverse** preserves the heavy raw ingredients (the `.molden` and `.xyz` data).
-3. **ChemRxiv** delivers the final scientific discussions (the manuscript).
-
 
 ### 📄 License
 
