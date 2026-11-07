@@ -43,7 +43,7 @@ To run these notebooks in a GPU-enabled cloud environment (such as Google Colab)
 
 The final optimized `.xyz` coordinates, `.molden` wavefunction files, and useful logs for these pyran systems are permanently archived on Zenodo. 
 
-[![DOI](https://shields.io)](https://doi.org)
+[![DOI](https://shields.io)]([[https://doi.org](https://doi.org/10.5281/zenodo.24044748)]
 
 ## ⚙️ Administrative Note on .XYZ File Headers
 
