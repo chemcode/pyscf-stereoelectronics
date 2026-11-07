@@ -75,17 +75,19 @@ To preserve the raw, unmanipulated spatial output of the geometric relaxation lo
 * 📜 **Preprint Stream:** Main text data matrices published openly on ChemRxiv.
 
 
-## 📄 Preprint & Citation
+<!-- 
+📄 Preprint & Citation
 
 A detailed discussion of the stereoelectronic effects, NBO interactions, and QTAIM topology of these substituted pyran/thiane variants can be found in the preprint on ChemRxiv:
 
-👉 **[Read the Preprint on ChemRxiv](https://doi.org)**
+👉 Read the Preprint on ChemRxiv
 
 If you use these notebooks or workflows in your research, please cite:
-```text
+
 Author, A. B.; Author, C. D. Title of Your Manuscript. ChemRxiv. 2026. 
 DOI: 10.26434/chemrxiv.YOUR_PREPRINT_ID
-```
+-->
+
 
 
 ### 📄 License
