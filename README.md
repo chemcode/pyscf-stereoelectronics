@@ -1,4 +1,4 @@
-### GPU-Accelerated PySCF Workflow for Fluorinated Pyran Systems
+### GPU-Accelerated PySCF Workflow for Fluorinated Heterocyclic Systems
 
 A minimal, high-performance pipeline for geometry optimisation and electronic structure analysis of neutral and protonated heterocycles using PySCF and the geomeTRIC solver environment. This repository provides standard, out-of-the-box notebooks optimised for GPU acceleration, seamlessly exporting standard .molden and .xyz files for downstream quantum chemical analysis. 
 
@@ -12,7 +12,7 @@ The workflow is split into two hyper-focused notebooks to prevent environment cl
 ### 🛠️ Computational Methods & Specifications
 
 * **Functional/Dispersion**: CAM-B3LYP-D3(BJ)
-* **Basis Set**: def2-tzvpd (Triple-zeta with diffuse and polarization functions)
+* **Basis Set**: def2-tzvpd (Triple-zeta with diffuse and polarisation functions)
 * **Optimisation Engine**: geomeTRIC solver backend
 * **Solvation (Aqueous Notebook)**: IEF-PCM (Water, ε = 78.35) with a dense lebedev_order = 29 angular grid mesh to eliminate numerical noise during relaxation.
 
