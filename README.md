@@ -74,6 +74,8 @@ To preserve the raw, unmanipulated spatial output of the geometric relaxation lo
 * 💾 **Permanent Open Data Vault:** Complete, uncorrupted electronic fingerprints (`.molden`, `.47`, `.log`, and `.xyz` coordinates) archived transparently on Zenodo.
 * 📜 **Preprint Stream:** T.B.A.
 
+ ---
+
 * ## Contact
 If you need to reach me privately, you can email me at [chemcode@://github.com](mailto:chemcode@://github.com).
 
