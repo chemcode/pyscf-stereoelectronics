@@ -61,7 +61,7 @@ To preserve the raw, unmanipulated spatial output of the geometric relaxation lo
 
 ### 🎓 Academic & Professional Profile
 * **Pedigree:** Hybrid synthetic organic chemist & open-source computational developer.
-* **Current Focus:** High-velocity open-science pipelines utilising GPU-accelerated electronic structure engines (**pySCF-GPU**), localized matrix perturbations (**Firefly/GAMESS/NBO 5.9**), and real-space quantum chemical topology (**Multiwfn**).
+* **Current Focus:** High-velocity open-science pipelines utilising GPU-accelerated electronic structure engines (**pySCF-GPU**), localised matrix perturbations (**Firefly/GAMESS/NBO 5.9**), and real-space quantum chemical topology (**Multiwfn**).
 * **Industrial Post-Doctoral Specialisation:** Industrially sponsored post-doctoral fellowship focused on **mercaptofuran synthetic chemistry**. This extensive hand-on development of complex organosulfur methodology directly informs my active research interests in mapping the distinct electronic, polarisability, and stereoelectronic anomalies of third-row heterocycles.
 * **Foundational Hub:** PhD in Synthetic Organic Chemistry 
   * *Focus:* Complex heterocyclic synthesis, methodology development, and pragmatic bench-scale application of anomeric and stereoelectronic control elements.
@@ -69,8 +69,8 @@ To preserve the raw, unmanipulated spatial output of the geometric relaxation lo
 ---
 
 ### 📂 Active Production Suites
-* 📦 **Volume 1 Repository:** Automated extraction workflows mapping the deactivation and masking of the classical *exo*-anomeric engine.
-* 💾 **Permanent Open Data Vault:** Complete, uncorrupted electronic fingerprints (`.molden`, `.47`, `.log`, and `.xyz` coordinates) archived transparently on Zenodo.
+* 📦 **Volume 1 Repository:** Automated extraction workflows mapping the deactivation and masking of the classical *exo*-anomeric effect.
+* 💾 **Permanent Open Data Vault:** Complete, uncorrupted electronic fingerprints (`.molden`, `.47`, `.log/.out`, and `.xyz` coordinates) archived transparently on Zenodo.
 * 📜 **Preprint Stream:** T.B.A.
 
  ---
