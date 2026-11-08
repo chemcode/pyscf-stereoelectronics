@@ -65,7 +65,6 @@ To preserve the raw, unmanipulated spatial output of the geometric relaxation lo
 * **Industrial Post-Doctoral Specialisation:** Industrially sponsored post-doctoral fellowship focused on **mercaptofuran synthetic chemistry**. This extensive hand-on development of complex organosulfur methodology directly informs my active research interests in mapping the distinct electronic, polarisability, and stereoelectronic anomalies of third-row heterocycles.
 * **Foundational Hub:** PhD in Synthetic Organic Chemistry 
   * *Focus:* Complex heterocyclic synthesis, methodology development, and pragmatic bench-scale application of anomeric and stereoelectronic control elements.
-  * *Thesis Registry:* [View Historical Dissertation Repository Link]
 
 ---
 
