@@ -79,19 +79,15 @@ To preserve the raw, unmanipulated spatial output of the geometric relaxation lo
 If you need to reach me privately, you can email me at [chemcode@://github.com](mailto:chemcode@://github.com).
 
 
-
-<!-- 
 📄 Preprint & Citation
 
 A detailed discussion of the stereoelectronic effects, NBO interactions, and QTAIM topology of these substituted pyran/thiane variants can be found in the preprint on ChemRxiv:
 
-👉 Read the Preprint on ChemRxiv
+👉 Read the Preprint on [ChemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011920/v1)
 
 If you use these notebooks or workflows in your research, please cite:
 
-Author, A. B.; Author, C. D. Title of Your Manuscript. ChemRxiv. 2026. 
-DOI: 10.26434/chemrxiv.YOUR_PREPRINT_ID
--->
+Miller, J. P.; Author, Stereoelectronic Modulation of Hyperconjugative Networks in Saturated Heterocycles: Bridging Hilbert-Space NBO Perturbations with Real-Space QTAIM Electron Cloud Distortions. ChemRxiv. 2026. DOI: 10.26434/chemrxiv.15011920/v1.
 
 
 
